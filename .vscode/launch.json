@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "c:/Users/nithe/github/algorithms",
-      "program": "c:/Users/nithe/github/algorithms/build/Debug/outDebug",
+      "cwd": "c:/Users/nithe/github/algorithms/cAlogorithms",
+      "program": "c:/Users/nithe/github/algorithms/cAlogorithms/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
